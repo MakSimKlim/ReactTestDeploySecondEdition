@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactTestDeploySecondEdition/intro/static/css/main.4f0c96f3.css",
+    "main.js": "/ReactTestDeploySecondEdition/intro/static/js/main.b0410c48.js",
+    "static/js/453.d850772c.chunk.js": "/ReactTestDeploySecondEdition/intro/static/js/453.d850772c.chunk.js",
+    "static/media/logo.svg": "/ReactTestDeploySecondEdition/intro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactTestDeploySecondEdition/intro/index.html",
+    "main.4f0c96f3.css.map": "/ReactTestDeploySecondEdition/intro/static/css/main.4f0c96f3.css.map",
+    "main.b0410c48.js.map": "/ReactTestDeploySecondEdition/intro/static/js/main.b0410c48.js.map",
+    "453.d850772c.chunk.js.map": "/ReactTestDeploySecondEdition/intro/static/js/453.d850772c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0c96f3.css",
+    "static/js/main.b0410c48.js"
+  ]
+}
