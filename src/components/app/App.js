@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       
       <Header title="Hello React" 
-      description="This is my first React App. 
+      description="This is my SECOND React App. 
       This Phase passedusing parameters 
       over 'PROPS'"/>
 
