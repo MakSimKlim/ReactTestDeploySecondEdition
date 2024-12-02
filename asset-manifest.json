@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactTestDeploySecondEdition/static/css/main.e59dc588.css",
+    "main.css": "/ReactTestDeploySecondEdition/static/css/main.56d0ce05.css",
     "main.js": "/ReactTestDeploySecondEdition/static/js/main.88085275.js",
     "static/js/453.d850772c.chunk.js": "/ReactTestDeploySecondEdition/static/js/453.d850772c.chunk.js",
     "static/media/logo.svg": "/ReactTestDeploySecondEdition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ReactTestDeploySecondEdition/index.html",
-    "main.e59dc588.css.map": "/ReactTestDeploySecondEdition/static/css/main.e59dc588.css.map",
+    "main.56d0ce05.css.map": "/ReactTestDeploySecondEdition/static/css/main.56d0ce05.css.map",
     "main.88085275.js.map": "/ReactTestDeploySecondEdition/static/js/main.88085275.js.map",
     "453.d850772c.chunk.js.map": "/ReactTestDeploySecondEdition/static/js/453.d850772c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e59dc588.css",
+    "static/css/main.56d0ce05.css",
     "static/js/main.88085275.js"
   ]
 }
