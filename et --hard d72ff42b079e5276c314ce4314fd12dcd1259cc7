@@ -1,0 +1,35 @@
+[33mcommit de0ffabcc7fd668fccae4016bfd6bfc09beb6a35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MakSimKlim <83maxomus@mail.ru>
+Date:   Mon Dec 2 17:13:43 2024 +0500
+
+    files from gh-rages movo to intro folder
+
+[33mcommit d72ff42b079e5276c314ce4314fd12dcd1259cc7[m
+Author: MakSimKlim <83maxomus@mail.ru>
+Date:   Mon Dec 2 15:48:42 2024 +0500
+
+    npm run build & npm rum deploy DONE
+
+[33mcommit 03506c95d006d37bf20643098ecf4841fdd59158[m
+Author: MakSimKlim <83maxomus@mail.ru>
+Date:   Mon Dec 2 14:11:33 2024 +0500
+
+    Updates for Deploy
+
+[33mcommit 20843d653e9d9a67d562d77353c3d787acf97688[m
+Author: Klimov_Maxim <120740542+MakSimKlim@users.noreply.github.com>
+Date:   Mon Dec 2 00:19:12 2024 +0500
+
+    Update package.json
+
+[33mcommit f28dfe3d3763c35f88289ad26126d7c6d7e31a1e[m
+Author: MakSimKlim <83maxomus@mail.ru>
+Date:   Sun Dec 1 19:38:22 2024 +0500
+
+    install gh-pages
+
+[33mcommit acb7f9e0a1ff7e685a46108144072f9c95303c5f[m
+Author: MakSimKlim <83maxomus@mail.ru>
+Date:   Sun Dec 1 18:30:45 2024 +0500
+
+    add project in empty folder
